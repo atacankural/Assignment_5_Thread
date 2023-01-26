@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1dzcY6HA6mKHmnFTOriBThZgeB6F2hQqi969eSzAxJFu+TKgibbadC7yZ32NsJFJwIXDrelvUusscZKG9zOZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataca\\OneDrive\\Masaüstü\\Assignment5\\Study\\A5_GroupF\\A5_GroupF\\A5_GroupF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataca\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ataca\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
